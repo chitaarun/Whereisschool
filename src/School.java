@@ -28,8 +28,8 @@
 				System.out.println("Mark is :"+ Mark);
 			}
 			
+		
 			
-				
 	public static void main (String[]args){
 		
 	School s1 =  School (Roll,Name,Mark); //Default constructor invoke
